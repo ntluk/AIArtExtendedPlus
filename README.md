@@ -5,7 +5,7 @@
 - Install ComfyUI, refer to _https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing_
 - Set correct paths in TextToImage and ImageToImage C# and Python Scripts:
   - TextToImage.cs
-  - ImageToIMage.cs
+  - ImageToImage.cs
   - LoadImage.cs
   - txt2img_workflow.py
   - img2img_workflow.py
