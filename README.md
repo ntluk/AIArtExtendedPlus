@@ -3,7 +3,7 @@
 ## Setup
 - Clone Repo
 - Install ComfyUI, refer to _https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing_
-- Set correct paths in TextToImage and ImageToImage C# and Python Scripts
+- Set correct paths in TextToImage and ImageToImage C# and Python Scripts:
   - TextToImage.cs
   - ImageToIMage.cs
   - LoadImage.cs
