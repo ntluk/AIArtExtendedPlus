@@ -4,7 +4,14 @@
 - Clone Repo
 - Install ComfyUI, refer to _https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing_
 - Set correct paths in TextToImage and ImageToImage C# and Python Scripts
-- Verify Prompt and Result Locations in ComfyUI Workflows
+  - TextToImage.cs
+  - ImageToIMage.cs
+  - LoadImage.cs
+  - txt2img_workflow.py
+  - img2img_workflow.py
+  - mosaic_workflow.py
+  - simpsons_workflow.py
+- Verify Prompt and Result Locations in ComfyUI Workflows (path change ---> new api json)
 
 
 ## Run CV Version on Samsung Frame
