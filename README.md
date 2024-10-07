@@ -13,7 +13,7 @@
   - simpsons_workflow.py
 - Verify Prompt and Result Locations in ComfyUI Workflows (path change ---> new api json)
 
-  Recommended Unity Version: 2020.3.16f1
+Recommended Unity Version: 2020.3.16f1
 
 
 ## Run CV Version on Samsung Frame
